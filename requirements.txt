@@ -1,0 +1,22 @@
+import pyaudio
+import select
+import cv2
+keyboard
+argparse
+tempfile
+queue
+os
+sys
+datetime
+speech_recognition
+amfm_decompy
+numpy
+warnings
+pydub
+textblob
+scipy
+librosa
+math
+pickle
+struct
+zlib
